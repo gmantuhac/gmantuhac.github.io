@@ -1,1 +1,13 @@
-![Gio pfp](https://cdn.discordapp.com/attachments/938667785679147030/989092824718934056/1642456092255.jpg)
+# About me!
+
+Hello everyone! I am *Giovanni Jericho Mantuhac*. I prefer to be called **Gio** because my first name always feels long to introduce to people. 
+
+Welcome to my page! To start off, I am an undergraduate student at the [University of California San Diego](https://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I came from a small-ish town called [Salinas, California](https://goo.gl/maps/9GdQRhixtecGmD4V6). I was born under immigrant parents from the Philippines who strove to work hard to ensure a good future for their children. Because of this, I find myself motivated to work hard on my academics to ensure I give worth to my parents' hard work and to also ensure that I am fully getting the most of my education. 
+
+I chose to study Mathematics-Computer Science because I had a certain motivation to continue studying mathematics since elementary school. As a means to grow towards this adapting world, I am studying Computer Science with the degree which may lead towards a gateway into the tech field. In fact, since my initial coding experience at UC San Diego, I am really enjoying programming and am becomming more confident in a career field in the technology industry. 
+
+## Hobbies
+---
+I love gaming. Video games have been a large part of my life since I was a young child. The oldest system I ever own was a Sega Dreamcast, although I barely have any memories playing the system. As of now, I mainly play games on my laptop and on my Playstation 4 but I am noticing that I am getting *less and less* time to play either. When given some kind of art-esque assignment, I find that much of my inspiration comes from video games. If you want a suggestion for a video game, I highly suggest my favorite, [Persona 5 Royal](https://youtu.be/vWWy7V9rCrA).
+
+I also love watching anime. However, like video games, I am finding *less and less* time to watch any anime. If you want a suggestion, I highly reccomend watching my favorite, [Assassination Classroom](https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu?q=assassin&cat=anime).
