@@ -23,6 +23,7 @@ I also love watching anime. However, like video games, I am finding *less and le
 ## Contact Me
 --- 
 **Email** (*UCSD*): gmantuhac@ucsd.edu
+
 **Email** (*General*): giovannimantuhac@gmail.com
 
 *I will be back on the UC San Diego campus around mid-September 2022*
