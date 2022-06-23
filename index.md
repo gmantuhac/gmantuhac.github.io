@@ -2,7 +2,7 @@
 
 Hello everyone! I am *Giovanni Jericho Mantuhac*. I prefer to be called **Gio** because my first name always feels long to introduce to people. 
 
-Welcome to my page! To start off, I am an undergraduate student at the [University of California San Diego](https://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I came from a small-ish town called [Salinas, California](https://goo.gl/maps/9GdQRhixtecGmD4V6). I was born under immigrant parents from the Philippines who strove to work hard to ensure a good future for their children. Because of this, I find myself motivated to work hard on my academics to ensure I give worth to my parents' hard work and to also ensure that I am fully getting the most of my education. 
+Welcome to my page! To start off, I am an undergraduate student at the [University of California San Diego](https://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I came from a small-ish town called [Salinas, California](https://goo.gl/maps/9GdQRhixtecGmD4V6).I find myself motivated to work hard on my academics to ensure that I am fully getting the most of my education. 
 
 I chose to study Mathematics-Computer Science because I had a certain motivation to continue studying mathematics since elementary school. As a means to grow towards this adapting world, I am studying Computer Science with the degree which may lead towards a gateway into the tech field. In fact, since my initial coding experience at UC San Diego, I am really enjoying programming and am becomming more confident in a career field in the technology industry. 
 
