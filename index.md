@@ -26,5 +26,7 @@ I also love watching anime. However, like video games, I am finding *less and le
 
 **Email** (*General*): giovannimantuhac@gmail.com
 
+**[LinkedIn](https://www.linkedin.com/in/giovanni-mantuhac/)**
+
 *I will be back on the UC San Diego campus around mid-September 2022*
 
