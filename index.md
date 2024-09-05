@@ -8,7 +8,7 @@ This site is currently under construction. Please look below to contact me, view
 
 **Email** (*General*): giomantuhac@gmail.com
 
-**[GitHub]([https://www.linkedin.com/in/giovanni-mantuhac/](https://github.com/gmantuhac))**
+**[GitHub](https://github.com/gmantuhac)**
 
 **[LinkedIn](https://www.linkedin.com/in/giovanni-mantuhac/)**
 
